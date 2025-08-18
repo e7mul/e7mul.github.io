@@ -1,1 +1,9 @@
-remote_theme: e7mul/Nice_Blog
+title: Your Name
+description: Personal site and blog
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+

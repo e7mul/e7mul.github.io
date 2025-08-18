@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+---
+layout: home
+title: Your Name
+---
 
-You can use the [editor on GitHub](https://github.com/e7mul/e7mul.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Your Name. I'm a [your role/field]. This is my minimal personal site and blog.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Find me here:
 
-### Markdown
+- [Google Scholar](https://scholar.google.com/)
+- [GitHub](https://github.com/)
+- [X](https://x.com/)
+- [LinkedIn](https://www.linkedin.com/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+New posts appear below.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/e7mul/e7mul.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

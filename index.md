@@ -4,23 +4,32 @@ title: Wojtek
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
-  <img src="/assets/images/profile.png" alt="Wojciech Masarczyk" style="width: 110px; height: 110px; border-radius: 35%; object-fit: cover; margin-right: 1.2em; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-  <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 2.2em; font-weight: 700; color: #222;">
-    Wojciech Masarczyk
-  </span>
+  <img src="/assets/images/profile.png" alt="Wojciech Masarczyk" style="width: 150px; height: 150px; border-radius: 45%; object-fit: cover; margin-right: 1.2em; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+  <div style="display: flex; flex-direction: column;">
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 2.2em; font-weight: 700; color: #222;">
+      Wojciech Masarczyk
+    </span>
+    <div style="display: flex; gap: 0.6em; margin-top: 0.35em;">
+      <a href="https://scholar.google.com/citations?user=WBbTd80AAAAJ&hl=en" aria-label="Google Scholar" target="_blank" rel="noopener">
+        <img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="Google Scholar" style="width: 15px; height: 15px;">
+      </a>
+      <a href="https://github.com/e7mul" aria-label="GitHub" target="_blank" rel="noopener">
+        <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" style="width: 15px; height: 15px;">
+      </a>
+      <a href="https://x.com/" aria-label="X" target="_blank" rel="noopener">
+        <img src="https://cdn.simpleicons.org/x/000000" alt="X" style="width: 15px; height: 15x;">
+      </a>
+      <a href="https://www.linkedin.com/" aria-label="LinkedIn" target="_blank" rel="noopener">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" style="width: 15px; height: 15px;">
+      </a>
+    </div>
+  </div>
 </div>
 
 <!-- ![Your Name](/assets/images/profile.png) -->
 
 
 Hi, I'm Wojtek. I'm trying to understand how neural networks build their representations to make them useful. Doing so, I'm taking my time which is known as [Slow Science](http://slow-science.org/).
-
-Find me here:
-
-- [Google Scholar](https://scholar.google.com/citations?user=WBbTd80AAAAJ&hl=en)
-- [GitHub](https://github.com/e7mul)
-- [X](https://x.com/)
-- [LinkedIn](https://www.linkedin.com/)
 
 New posts appear below.
 

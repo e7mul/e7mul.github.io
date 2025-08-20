@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Wojtek   
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
@@ -11,16 +10,16 @@ title: Wojtek
     </span>
     <div style="display: flex; gap: 0.6em; margin-top: 0.35em;">
       <a href="https://scholar.google.com/citations?user=WBbTd80AAAAJ&hl=en" aria-label="Google Scholar" target="_blank" rel="noopener">
-        <img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="Google Scholar" style="width: 15px; height: 15px;">
+        <img src="/assets/images/logos/google_scholar.png" alt="Google Scholar" style="width: 20px; height: 20px;">
       </a>
       <a href="https://github.com/e7mul" aria-label="GitHub" target="_blank" rel="noopener">
-        <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" style="width: 15px; height: 15px;">
+        <img src="/assets/images/logos/github.png" alt="GitHub" style="width: 20px; height: 20px;">
       </a>
       <a href="https://x.com/" aria-label="X" target="_blank" rel="noopener">
-        <img src="https://cdn.simpleicons.org/x/000000" alt="X" style="width: 15px; height: 15x;">
+        <img src="/assets/images/logos/x.jpg" alt="X" style="width: 20px; height: 20px;">
       </a>
       <a href="https://www.linkedin.com/" aria-label="LinkedIn" target="_blank" rel="noopener">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" style="width: 15px; height: 15px;">
+        <img src="/assets/images/logos/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;">
       </a>
     </div>
   </div>
